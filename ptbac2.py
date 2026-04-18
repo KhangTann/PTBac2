@@ -36,4 +36,7 @@ try:
     ket_qua = giai_phuong_trinh_bac_2(a, b, c)
     print(ket_qua)
 except ValueError:
-    print("Vui lòng nhập số hợp lệ!")
+    print("Vui lòng nhập số hợp lẹeeeeeeeeeeeeeeeeeeeee!")
+    
+    
+# cái địt con mẹ màuyyyysyfdsydfksdgfskgdflsjf
